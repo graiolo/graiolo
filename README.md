@@ -1,6 +1,25 @@
-<p align = "center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbifm27u00300fjr189qmc5z/stats?cursusId=21&coalitionId=283" alt="graiolo's 42 stats" /></a>
+```cpp
+#!/usr/bin/c++
+# -*- coding: utf-8 -*-
 
+
+class 42student {
+    pubblic:
+        self.name = "graiolo";
+        self.role = "42 student";
+        self.language_spoken = {"it_IT", "en_US"};
+	self.skill_learning = {"c", "cpp", "vim", "github"};
+
+    void say_hi() const {
+      std::cout << "Thanks for dropping by, hope you find some of my work interesting." << std::endl;
+    }
+}
+
+int main() {
+42student();
+me.say_hi();
+}
+```
 <!---
 graiolo/graiolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
