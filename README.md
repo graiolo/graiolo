@@ -5,7 +5,7 @@
 
 class 42student {
     pubblic:
-        self.name = "graiolo";
+        self.name = "giuseppe";
         self.role = "42 student";
         self.language_spoken = {"it_IT", "en_US"};
 	self.skill_learning = {"c", "cpp", "vim", "github"};
