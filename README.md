@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Giuseppe (Chiken) Raiolo</h1>
+<h1>Hi 👋, I'm Giuseppe (Chicken) Raiolo</h1>
 
 ```cpp
 #!/usr/bin/c++
