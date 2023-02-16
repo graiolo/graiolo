@@ -17,10 +17,6 @@ class 42student {
     }
 }
 
-int main() {
-42student();
-me.say_hi();
-}
 ```
 <!---
 graiolo/graiolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
