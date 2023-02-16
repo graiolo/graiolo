@@ -5,17 +5,17 @@
 # -*- coding: utf-8 -*-
 
 
-class 42student {
+class 42student
     pubblic:
         self.name = "giuseppe";
         self.role = "42 student";
         self.language_spoken = {"it_IT", "en_US"};
 	self.skill_learning = {"c", "cpp", "vim", "github"};
 
-    void say_hi() const {
+    void say_hi() const 
       std::cout << "Thanks for dropping by, hope you find some of my work interesting." << std::endl;
-    }
-}
+    
+
 
 ```
 <!---
