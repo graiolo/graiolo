@@ -1,10 +1,6 @@
 <h1>Hi 👋, I'm Giuseppe (Chicken) Raiolo</h1>
 
 ```cpp
-#!/usr/bin/c++
-# -*- coding: utf-8 -*-
-
-
 class 42student
     pubblic:
         self.name = "giuseppe";
