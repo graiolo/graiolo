@@ -1,20 +1,6 @@
-<h1>Hi 👋, I'm Giuseppe (Chicken) Raiolo</h1>
-
-```cpp
-class 42student
-    pubblic:
-        self.name = "giuseppe";
-        self.role = "42 student";
-        self.language_spoken = {"it_IT", "en_US"};
-	self.skill_learning = {"c", "cpp", "vim", "github"};
-
-    void say_hi() const 
-      std::cout << "Thanks for dropping by, hope you find some of my work interesting." << std::endl;
-    
-
-
-```
-<!---
-graiolo/graiolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Giuseppe (Chicken) Raiolo</h1>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=graiolo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=graiolo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=graiolo&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
